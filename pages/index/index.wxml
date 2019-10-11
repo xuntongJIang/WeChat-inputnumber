@@ -1,0 +1,6 @@
+<!--index.wxml-->
+<view class="container">
+
+<input bindinput="fetchMoney" type="number" style="background: #999;"></input>
+  <!-- <input class="" bindinput="fetchMoney" type="digit" style="color: #999;" adjust-position="false" /> -->
+</view>
